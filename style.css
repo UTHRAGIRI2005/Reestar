@@ -1,0 +1,73 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.shop-name{
+    color: white
+}
+.shop-name:hover{
+    color: coral
+}
+
+.header{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin-top: 10px;
+    border: 10px dotted orange;
+    border-radius: 10px;
+
+}
+nav,li,ul{
+    color: grey;
+    display: inline;
+    
+}
+li:hover{
+    color: white;
+    cursor: pointer;
+}
+.section-one__input{
+    width: 60%;
+    padding: 15px;
+    margin-top: 10px;
+    
+}
+.section-one__input:hover{
+    border: 4px burlywood solid;
+}
+.section-one__searchbar{
+    text-align: center;
+}
+.box{
+    margin-top: 20px;
+    border: 5px  solid black;
+    display: inline-block;
+    padding: 10px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-right: 10px;
+}
+.box:hover
+{
+    background-color: white;
+    color: black;
+}
+button{
+    color: white;
+    background-color: orangered;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+}
+.products{
+    text-align: center;
+}
+.footer{
+    padding: 10px;
+    background-color: black;
+    color: white;
+    margin-top: 20px;
+}
