@@ -17,4 +17,9 @@ A simple food ordering website built with HTML and basic CSS.
 - CSS3
 
 ## Project Structure
+```bash
+Reestar/
+├── index.html
+├── style.css
+└── screenshot.png
 
